@@ -34,7 +34,15 @@ This Power BI dashboard analyzes transaction-level data to identify fraud patter
 
 - Input: Credit card transaction dataset with customer activity, transaction amount, risk score, and anomaly indicators  
 - Processing: KPI calculations, fraud rate metrics, risk score distribution, and anomaly detection using DAX  
-- Output: Interactive dashboard to monitor fraud trends, identify high-risk customers, and analyze transaction behavior patterns    
+- Output: Interactive dashboard to monitor fraud trends, identify high-risk customers, and analyze transaction behavior patterns
+
+## Fraud Signals Explained
+
+- Risk Score: Higher risk scores indicate stronger likelihood of fraudulent behavior based on multiple indicators  
+- Transaction Velocity: Sudden spikes in transaction frequency may signal suspicious or automated activity  
+- High Transaction Amount: Unusually large transactions increase fraud probability  
+- Geo Anomaly: Transactions from unusual or inconsistent locations indicate potential fraud  
+- Customer Concentration: A small group of customers contributing disproportionately to fraud signals high-risk behavior  
 
 ## Key Insights
 - Online transactions show highest fraud concentration
