@@ -30,6 +30,12 @@ This Power BI dashboard analyzes transaction-level data to identify fraud patter
 ### Page 3 – Customer Risk Analysis
 ![Page3](page3.PNG)
 
+## Workflow Integration
+
+- Input: Credit card transaction dataset with customer activity, transaction amount, risk score, and anomaly indicators  
+- Processing: KPI calculations, fraud rate metrics, risk score distribution, and anomaly detection using DAX  
+- Output: Interactive dashboard to monitor fraud trends, identify high-risk customers, and analyze transaction behavior patterns    
+
 ## Key Insights
 - Online transactions show highest fraud concentration
 - Fraud increases with higher risk scores
@@ -38,10 +44,10 @@ This Power BI dashboard analyzes transaction-level data to identify fraud patter
 
 ## Business Impact
 
-- Enabled real-time monitoring of fraud metrics and risk trends across transactions  
-- Provided clear visibility into high-risk customers and anomaly patterns  
-- Improved decision-making speed for risk and operations teams  
-- Reduced dependency on manual analysis through interactive dashboard insights  
+- Enabled real-time monitoring of fraud metrics and transaction risk trends  
+- Provided clear visibility into high-risk customers, transaction anomalies, and behavioral patterns  
+- Improved decision-making speed for risk and operations teams through centralized insights  
+- Reduced dependency on manual analysis by consolidating fraud indicators into an interactive dashboard  
 
 ## Author
 Akshaya V.S.
