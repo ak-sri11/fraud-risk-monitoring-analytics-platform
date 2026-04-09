@@ -1,4 +1,4 @@
-# Fraud Monitoring And Risk Intelligence Dashboard
+# Credit Card Fraud Monitoring & Risk Intelligence Dashboard
 
 ## Overview
 This Power BI dashboard analyzes transaction-level data to identify fraud patterns, high-risk customers, and behavioral anomalies.
