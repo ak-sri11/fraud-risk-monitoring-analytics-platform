@@ -36,5 +36,12 @@ This Power BI dashboard analyzes transaction-level data to identify fraud patter
 - Small group of customers contributes to majority of fraud
 - Transaction velocity plays a critical role in fraud detection
 
+## Business Impact
+
+- Enabled real-time monitoring of fraud metrics and risk trends across transactions  
+- Provided clear visibility into high-risk customers and anomaly patterns  
+- Improved decision-making speed for risk and operations teams  
+- Reduced dependency on manual analysis through interactive dashboard insights  
+
 ## Author
 Akshaya V.S.
